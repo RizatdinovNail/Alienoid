@@ -1,0 +1,110 @@
+{
+  "credits": [
+    { "title": "=== GAME CREDITS ===" },
+
+    {
+      "role": "Game Directors",
+      "name": "Nail Rizatdinov, Bruno Jesús Vázquez, Daniel Rodríguez López"
+    },
+    {
+      "role": "Lead Programmers",
+      "name": "Nail Rizatdinov, Bruno Jesús Vázquez, Daniel Rodríguez López"
+    },
+    { "role": "Lead Artist", "name": "Bruno Jesús Vázquez" },
+
+    {
+      "role": "Gameplay Design",
+      "name": "Ruso Emigrante, Peruano Sin Papeles, Lab Rat"
+    },
+    {
+      "role": "UI/UX Design",
+      "name": "Ruso Emigrante, Peruano Sin Papeles, Lab Rat"
+    },
+    {
+      "role": "Visual Effects",
+      "name": "Stolen by Lab Rat from Google free sounds"
+    },
+
+    {
+      "role": "Sound Design",
+      "name": "Stolen by Lab Rat from Google free sounds"
+    },
+    {
+      "role": "Music Composer",
+      "name": "Google free sounds and (not) drunk Peruano"
+    },
+    {
+      "role": "Voice Acting (All Characters)",
+      "name": "In Carcanoid?!!! Are you nuts?!!!"
+    },
+
+    { "role": "QA Testing", "name": "God" },
+    {
+      "role": "Bug Summoner",
+      "name": "That neighbour that playes music at 3am"
+    },
+    {
+      "role": "Bug Exorcist",
+      "name": "FOR THE GRACE, FOR THE MIGHT OF OUR LORD\n FOR THE HOME OF THE HOLY\n FOR THE FAITH, FOR THE WAY OF THE SWORD\n GAVE THEIR LIVE SO BODLY"
+    },
+
+    {
+      "role": "Pizza Delivery During Crunch Time",
+      "name": "Pizza delivery?!! IN THIS ECONOMY?!! "
+    },
+    { "role": "Late Night Motivational Speaker", "name": "MIKU, MIKU, UIU" },
+    { "role": "That gay friend", "name": "FRAN" },
+    {
+      "role": "Keyboard Smasher (Frustration Testing)",
+      "name": "Better hit yourself, you worth nothing anyway"
+    },
+
+    { "role": "Coffee Supplier", "name": "We like our frustration raw" },
+    { "role": "Tea Master", "name": "Ruso Emigrante, (actually I am Tatar)" },
+    {
+      "role": "Snack Strategist",
+      "name": "IT'S ABOUT DRIVE, IT'S ABOUT POWER\n WE STAY HUNGRY, WE DEVOUR!"
+    },
+
+    { "role": "Lead Lore Fabricator", "name": "Lore? what is that?" },
+    {
+      "role": "Plot Twist Consultant",
+      "name": "OH YEAH, IT IS ALL COMING TOGETHER NOW"
+    },
+    {
+      "role": "Cinematic Drama Engineer",
+      "name": "BARA BADA BASTU BASTU\n HEITTÄÄ PÅ SÅ SVEITTIN BARA YR\n OH OH, OH OH, OH OH\n BADA BASTU JÅÅ"
+    },
+
+    { "role": "Physics Defier", "name": "Newton" },
+    {
+      "role": "Gravity Negotiator",
+      "name": "NEVER GONNA GIVE YOU UP\n NEVER GONNA LET YOU DOWN\n NEVER GONNA RUN AROUND AND DESERT YOU"
+    },
+    { "role": "Collision Expert", "name": "Mike Tyson" },
+
+    {
+      "role": "Shader Wizard",
+      "name": "Dude, do you even exist?\n I think I am\n That is a pretty solid argument\n René Descartes?!!!!!"
+    },
+
+    { "role": "Player Confusion Specialist", "name": "THAW? WOH? YHW? EREHW?" },
+    { "role": "Easter Egg Architect", "name": "Half Horse - Half Man" },
+    {
+      "role": "Secret Ending Designer",
+      "name": "There is one, trust me, there is one. Keep gambling and you will unlock it!"
+    },
+    { "role": "“You Died” Screen Creator", "name": " Hidetaka Miyazaki" },
+
+    { "title": "=== SPECIAL THANKS ===" },
+    { "role": "To the bugs who gave us a reason to scream", "name": "" },
+    { "role": "To the compiler, for always testing our patience", "name": "" },
+    { "role": "Bruno's 1000+ hrs on aseprite", "name": "" },
+
+    { "title": "=== THANK YOU FOR PLAYING ===" },
+    {
+      "role": "Now go outside and touch some grass... or play it again!",
+      "name": ""
+    }
+  ]
+}
